@@ -1,6 +1,7 @@
 <img src="icon/sinalgo_512.png" width="100" height="100" align="right"/> 
 
 # Sinalgo - Simulator for Network Algorithms
+# Cópia da versão desenvolvida pelo Andre Brait e disponível em https://github.com/Sinalgo/sinalgo junto com versão do exemplo de Coloring para ilustrar o uso do Sinalgo disponível em http:// 
 
 ## Welcome to Sinalgo
 
